@@ -1,0 +1,5 @@
+eooni una resolusi
+- Belajar Git dan Github
+- Belajar Katalon
+- Belajar Scrum Master
+- Belajar QA Automatic
