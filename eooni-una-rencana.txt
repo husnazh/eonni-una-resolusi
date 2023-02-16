@@ -5,3 +5,4 @@ Rencana eooni una
 - Buat akun Git
 - Join seminar QA
 - Scrum Master certive
+- Interview
