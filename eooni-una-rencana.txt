@@ -3,6 +3,8 @@ Rencana eooni una
 * Cari cara di google
 * Lakukan install
 - Buat akun Git
+* Cari di Google Unpas Programing
+* Lakukan tutorialnya
 - Join seminar QA
 - Scrum Master certive
-- Interview
+- Apply
