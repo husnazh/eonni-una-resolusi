@@ -4,5 +4,6 @@ Rencana eooni una
 * Lakukan install
 - Buat akun Git
 - Join seminar QA
+* Cari di Likenid
 - Scrum Master certive
 - Interview
