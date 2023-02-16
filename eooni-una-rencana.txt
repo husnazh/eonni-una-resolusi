@@ -1,0 +1,7 @@
+Rencana eooni una
+- Instal Katalon
+* Cari cara di google
+* Lakukan install
+- Buat akun Git
+- Join seminar QA
+- Scrum Master certive
